@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+@font-face {
+  font-family: 'Safron_Modern';
+  src: url('SafronModern.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Safron_Modern';
+  src: url('Safron_Modern.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+p {
+  font-family: 'Safron_Modern';
+}
